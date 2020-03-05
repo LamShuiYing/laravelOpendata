@@ -21,6 +21,7 @@ Route::get('/welcome', function(){
 Route::get('/about', function(){
 
 	return view('about');
+	
 
 });
 
